@@ -1,14 +1,14 @@
 # VDR streamdev plugin language source file.
 # Copyright (C) 2008 streamdev development team. See http://streamdev.vdr-developer.org
 # This file is distributed under the same license as the VDR streamdev package.
-# Frank Schmirler <vdrdev@schmirler.de>, 2008
+# Valdemaras Pipiras <varas@ambernet.lt>, 2014, 2015
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: streamdev 0.5.0\n"
 "Report-Msgid-Bugs-To: <http://www.vdr-developer.org/mantisbt/>\n"
 "POT-Creation-Date: 2013-01-28 22:16+0100\n"
-"PO-Revision-Date: 2009-11-26 21:57+0200\n"
+"PO-Revision-Date: 2015-02-12 23:30+0200\n"
 "Last-Translator: Valdemaras Pipiras <varas@ambernet.lt>\n"
 "Language-Team: Lithuanian <vdr@linuxtv.org>\n"
 "Language: lt\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "VTP Streaming Client"
-msgstr "VTP transliavimo standartas"
+msgstr "VTP transliavimo klientas"
 
 msgid "Suspend Server"
 msgstr "Sustabdyti serverį"
@@ -32,7 +32,7 @@ msgid "Hide Mainmenu Entry"
 msgstr "Paslėpti pagrindinio meniu įrašą"
 
 msgid "Simultaneously used Devices"
-msgstr ""
+msgstr "Vienu metu veikiantys įrenginiai"
 
 msgid "Remote IP"
 msgstr "Nuotolinis IP adresas"
@@ -41,13 +41,13 @@ msgid "Remote Port"
 msgstr "Nuotolinis portas"
 
 msgid "Timeout (s)"
-msgstr ""
+msgstr "Atidėjimas (s)"
 
 msgid "Filter Streaming"
 msgstr "Filtruoti transliavimą"
 
 msgid "Live TV Priority"
-msgstr ""
+msgstr "Gyvos TV prioritetas"
 
 msgid "Minimum Priority"
 msgstr "Minimalus prioritetas"
@@ -56,4 +56,4 @@ msgid "Maximum Priority"
 msgstr "Maksimalus prioritetas"
 
 msgid "Broadcast Systems / Cost"
-msgstr ""
+msgstr "Transliavimo sistemos"

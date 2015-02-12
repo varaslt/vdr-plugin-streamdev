@@ -1,14 +1,14 @@
 # VDR streamdev plugin language source file.
 # Copyright (C) 2008 streamdev development team. See http://streamdev.vdr-developer.org
 # This file is distributed under the same license as the VDR streamdev package.
-# Frank Schmirler <vdrdev@schmirler.de>, 2008
+# Valdemaras Pipiras <varas@ambernet.lt>, 2014, 2015
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: streamdev 0.5.0\n"
 "Report-Msgid-Bugs-To: <vdrdev@schmirler.de>\n"
 "POT-Creation-Date: 2014-05-05 22:46+0200\n"
-"PO-Revision-Date: 2009-11-26 21:57+0200\n"
+"PO-Revision-Date: 2015-02-12 23:40+0200\n"
 "Last-Translator: Valdemaras Pipiras <varas@ambernet.lt>\n"
 "Language-Team: Lithuanian <vdr@linuxtv.org>\n"
 "Language: lt\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Streaming active"
-msgstr "Transliavimas vyksta"
+msgstr "Vyksta transliavimas"
 
 msgid "Streamdev Connections"
-msgstr ""
+msgstr "Streamdev sujungimai"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Atjungti"
 
 msgid "Suspend"
 msgstr "Pristabdyti"
@@ -32,16 +32,16 @@ msgid "Common Settings"
 msgstr "Bendri nustatymai"
 
 msgid "Hide Mainmenu Entry"
-msgstr ""
+msgstr "Paslėpti pagrindinio meniu įrašą"
 
 msgid "Start with Live TV suspended"
-msgstr ""
+msgstr "Pradėti kai gyva televizija pristabdyta"
 
 msgid "Maximum Number of Clients"
 msgstr "Maksimalus klientų skaičius"
 
 msgid "Live TV buffer delay (ms)"
-msgstr ""
+msgstr "Gyvos televizijos buferio užlaikymas (ms)"
 
 msgid "VDR-to-VDR Server"
 msgstr "VDR-su-VDR Serveris"
@@ -56,13 +56,13 @@ msgid "Bind to IP"
 msgstr "Pririšti IP"
 
 msgid "Legacy Client Priority"
-msgstr ""
+msgstr "Kliento prioritetas"
 
 msgid "Client may suspend"
 msgstr "Klientas gali pristabdyti"
 
 msgid "Loop Prevention"
-msgstr ""
+msgstr "Apsauga nuo ciklo"
 
 msgid "HTTP Server"
 msgstr "HTTP Serveris"
@@ -74,7 +74,7 @@ msgid "HTTP Server Port"
 msgstr "HTTP serverio portas"
 
 msgid "Priority"
-msgstr ""
+msgstr "Prioritetas"
 
 msgid "HTTP Streamtype"
 msgstr "HTTP transliavimo tipas"
